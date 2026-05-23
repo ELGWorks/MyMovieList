@@ -1,7 +1,7 @@
 # 📷 MyMovieList
 
 <p align="center">
-    <img src="./frontend/public/demo.gif" alt="Preview" />
+    <img src="./docs/demo.gif" alt="Preview" />
   </a>
 </p>
 
