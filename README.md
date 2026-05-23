@@ -1,7 +1,7 @@
 # 📷 MyMovieList
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ELGWorks/MyMovieList/main/frontend/docs/demo.gif" alt="Preview" />
+  <img src="demo.gif" alt="Preview" />
 </p>
 
 <p align="center">
