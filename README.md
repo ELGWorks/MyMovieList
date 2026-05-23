@@ -1,0 +1,13 @@
+# 📷 MyMovieList
+
+<p align="center">
+    <img src="frontend/assets/demo.gif" alt="Preview" width="800"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>MyMovieList — React.js + JavaScript movie app using the TMDB API.</b>
+</p>
+<p align="center">
+  Tech Stack: React.js, JavaScript, Vite, TMDB API, CSS
+</p>
