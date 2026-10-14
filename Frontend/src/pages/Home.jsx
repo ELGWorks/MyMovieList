@@ -16,7 +16,7 @@ function Home() {
                 setMovies(popularMovies)
             } catch (err) {
                 console.log(err);
-                setError("Failed to load movies...");
+                setError("Unable to retrieve movie data. The API may be temporarily unavailable or its usage limit may have been reached. Please try again later.");
             }
             finally {
                 setLoading(false);
